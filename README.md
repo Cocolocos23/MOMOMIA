@@ -1,5 +1,6 @@
-# MOMOMIA
+# INTERNATIONAL FOOD
 
+El objetivo de este blog es mostrar a los amantes de la comida exótica 
 The purpose of an Online Food Ordering System is to automate the existing manual system with the help of computerized equipment and full-fledged computer software, fulfilling their requirements so that their valuable data/information can be stored for a longer period with easy access and manipulation of the same. The required software and hardware are easily available and easy to work with.
 
 Online Food Ordering System, as described above, can lead to an error-free, secure, reliable, and fast management system. It can assist the user to concentrate on their other activities rather than concentrate on record keeping. Thus it will help organizations in better utilization of resources. The organization can maintain computerized records without redundant entries. That means that one need not be distracted by information that is not relevant while being able to reach the information.
